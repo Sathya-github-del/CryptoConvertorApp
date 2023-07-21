@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cryptocurrency_options">
+        <item>Bitcoin (BTC)</item>
+        <item>Ethereum (ETH)</item>
+        <item>TRON (TRX)</item>
+        <item>Tether (USDT)</item>
+        <item>Binance Coin</item>
+        <item>Ripple</item>
+        <item>Dogecoin</item>
+        <item>Litecoin</item>
+    </string-array>
+    <string name="app_name">Cryptoconvert</string>
+</resources>
